@@ -71,8 +71,7 @@ MT = 296.5 + 207.6 × ID
   every difficulty level, which is expected given the random-noise component of the
   tremor simulation.
 
-![<img width="377" height="269" alt="image" src="https://github.com/user-attachments/assets/16ac9ee0-29b8-4b20-a4c6-73f1d6adc885" />
-](fitts_law_scatter_regression.png)
+![](fitts_law_scatter_regression.png)
 
 ## Data & Materials
 
