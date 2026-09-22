@@ -79,4 +79,4 @@ MT = 296.5 + 207.6 × ID
 - [fitts_law_tremor_trial_data.csv](fitts_law_tremor_trial_data.csv) — raw trial data
 - [<img width="377" height="269" alt="image" src="https://github.com/user-attachments/assets/1140b180-b499-41b7-934c-2950d15655dd" />
 ](fitts_law_scatter_regression.png) — regression plot
-- Screen-recording of the data-collection session: `[paste your video link here]`
+- Screen-recording of the data-collection session: `[https://youtu.be/Hp1j-ndcHPU?si=SBN2T7p9VarwdXA1]`
