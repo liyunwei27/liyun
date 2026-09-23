@@ -75,7 +75,7 @@ MT = 296.5 + 207.6 × ID
 
 ## Data & Materials
 
-- [<fitts_law_tremor_trial_data (1).csv>](fitts_law_tremor_trial_data.csv) — raw trial data
+- [<fitts_law_tremor_trial_data (1).csv>](fitts_law_tremor_trial_data(1).csv) — raw trial data
 - [<img width="377" height="269" alt="image" src="https://github.com/user-attachments/assets/1140b180-b499-41b7-934c-2950d15655dd" />
 ](fitts_law_scatter_regression.png) — regression plot
 - Screen-recording of the data-collection session: `[https://youtu.be/Hp1j-ndcHPU?si=SBN2T7p9VarwdXA1]`
