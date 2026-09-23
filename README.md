@@ -1,8 +1,8 @@
 # liyun
 # Tremor-Aware Fitts' Law Tapping Test
 
-**Live demo:** `https://[liyunwei27].github.io/[liyun]/`
-**Screen-recording video:** [https://youtu.be/Hp1j-ndcHPU?si=3uGx_vDJeA9NBknb]
+**Live demo:** https://[liyunwei27].github.io/[liyun]/
+**Screen-recording video:** https://youtu.be/Hp1j-ndcHPU?si=3uGx_vDJeA9NBknb
 
 ---
 
